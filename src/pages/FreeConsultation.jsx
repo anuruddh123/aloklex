@@ -44,6 +44,15 @@ const plans = [
       "Serious case evaluation",
       "High-priority handling",
     ],
+  }, {
+    title : "Monthly Legal Plan",
+    price : "₹4999",
+    duration : "4 Hours (30 Days)",
+    features : [
+      "4 hours total consultation",
+      "Comprehensive case analysis",
+      "Ongoing legal support",
+    ],
   },
 ];
 
