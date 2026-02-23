@@ -78,18 +78,8 @@ export default function Services() {
         })}
       </div>
 
-      {/* Mobile Fallback */}
-      <div className="md:hidden flex flex-col gap-8 mt-16">
-        {services.map((s, i) => (
-          <div key={s.id} className="bg-black/50 backdrop-blur-xl border border-white/10 rounded-3xl p-6 shadow-2xl">
-            <div className="w-12 h-12 rounded-full bg-[#C9A24D] flex items-center justify-center text-black font-bold text-lg mb-3">
-              {i + 1}
-            </div>
-            <h3 className="text-xl font-bold text-[#C9A24D]">{s.title}</h3>
-            <p className="text-gray-300 text-sm">{s.desc}</p>
-          </div>
-        ))}
-      </div>
+     
+   
     </section>
   );
 }
