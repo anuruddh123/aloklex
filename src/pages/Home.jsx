@@ -158,7 +158,7 @@ export default function Home() {
       <span className="absolute left-0 top-10 bottom-10 w-[3px] bg-[#C9A24D]" />
 
       <p className="text-gray-300 text-lg leading-relaxed max-w-3xl">
-        Advocate Alok completed his
+        Law Intern Alok completed his
         <span className="text-white font-medium"> formal legal education </span>
         from
         <span className="text-[#C9A24D] font-medium"> CSJM University</span>,

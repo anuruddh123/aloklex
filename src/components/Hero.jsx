@@ -45,7 +45,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-4 sm:mt-6 text-gray-300 text-sm sm:text-base max-w-xl mx-auto md:mx-0">
-            Advocate Alok provides professional legal consultation, case
+            Law Intern Alok provides professional legal consultation, case
             guidance, and trusted legal solutions with transparency and
             integrity.
           </p>
